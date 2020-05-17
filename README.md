@@ -1,15 +1,14 @@
 # Aplikasi-Football-League
 
-Submission 1: Aplikasi Football League
+## Submission 1: Aplikasi Football League
 
-Fitur yang harus ada pada aplikasi:
+### Fitur yang harus ada pada aplikasi:
 
 Daftar Liga
-Halaman utama yang menampilkan daftar liga (nama dan logo) dengan jumlah minimal 5 item.
+ * Halaman utama yang menampilkan daftar liga (nama dan logo) dengan jumlah minimal 5 item.
 
 Detail Liga
-Halaman detail yang menampilkan Informasi mengenai liga yang dipilih (nama, logo dan keterangan singkat).
-
+ * Halaman detail yang menampilkan Informasi mengenai liga yang dipilih (nama, logo dan keterangan singkat).
 
 Komponen yang harus diterapkan:
 
