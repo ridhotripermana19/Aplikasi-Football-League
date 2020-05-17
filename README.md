@@ -8,7 +8,7 @@ Daftar Liga
  * Halaman utama yang menampilkan daftar liga (nama dan logo) dengan jumlah minimal 5 item.
 
 Detail Liga
- * Halaman detail yang menampilkan Informasi mengenai liga yang dipilih (nama, logo dan keterangan singkat). <br/>
+ * Halaman detail yang menampilkan Informasi mengenai liga yang dipilih (nama, logo dan keterangan singkat). <br>
 
 Komponen yang harus diterapkan:
 
