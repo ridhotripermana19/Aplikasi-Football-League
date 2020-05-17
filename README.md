@@ -20,6 +20,3 @@ Anko Commons untuk penerapan Intent, dialog atau logging.
 Anko Layout untuk menyusun tampilan dari semua halaman.
 
 Kotlin Android Extensions untuk penerapan Parcelable atau binding view.
-
-![Screenshot_2020-05-17-14-49-02-299_com example submission1](https://user-images.githubusercontent.com/38293327/82136954-49b9b600-984e-11ea-87ed-6143abcaebe1.jpg)
-![Screenshot_2020-05-17-14-49-17-245_com example submission1](https://user-images.githubusercontent.com/38293327/82136956-4f170080-984e-11ea-8544-4509f0d1b689.jpg)
